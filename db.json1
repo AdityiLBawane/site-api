@@ -1,0 +1,16 @@
+{
+  "siteMaster": [
+    {
+      "siteId": 1,
+      "siteTitle": "Luxury Green Homes",
+      "location": "Baner",
+      "propertyTypeId": 101,
+      "city": "Pune",
+      "pincode": "411045",
+      "state": "Maharashtra",
+      "totalProperties": 10,
+      "createdDate": "2025-07-01T09:34:46.111Z",
+      "lastUpdatedDate": "2025-07-01T09:34:46.111Z"
+    }
+  ]
+}
